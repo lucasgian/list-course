@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/res/merged/debug/layout/list_row.xml",
+        "source": "/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/src/main/res/layout/list_row.xml"
+    },
+    {
+        "merged": "/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/res/merged/debug/layout/fragment_main.xml",
+        "source": "/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/res/merged/debug/layout/fragment_navigation_drawer.xml",
+        "source": "/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/src/main/res/layout/fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/res/merged/debug/layout/activity_detail.xml",
+        "source": "/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/src/main/res/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/res/merged/debug/layout/fragment_movie.xml",
+        "source": "/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/src/main/res/layout/fragment_movie.xml"
+    },
+    {
+        "merged": "/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/src/main/res/layout/activity_main.xml"
+    }
+]

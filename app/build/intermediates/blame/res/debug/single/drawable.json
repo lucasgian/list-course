@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/res/merged/debug/drawable/list_row_bg.xml",
+        "source": "/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/src/main/res/drawable/list_row_bg.xml"
+    },
+    {
+        "merged": "/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/res/merged/debug/drawable/list_row_bg_hover.xml",
+        "source": "/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/src/main/res/drawable/list_row_bg_hover.xml"
+    },
+    {
+        "merged": "/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/res/merged/debug/drawable/list_row_selector.xml",
+        "source": "/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/src/main/res/drawable/list_row_selector.xml"
+    }
+]

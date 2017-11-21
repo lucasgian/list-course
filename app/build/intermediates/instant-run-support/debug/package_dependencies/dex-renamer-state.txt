@@ -1,0 +1,13 @@
+#Fri Nov 03 19:59:22 AMST 2017
+renamed.3=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes4.dex
+base.3=/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_97fb7a4590adff23f0cb57e87432794b74cd5565
+base.2=/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_279d87ed8132e550ff2355f4e4695edcc364189b
+base.1=/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/transforms/dex/debug/folders/1000/2/okhttp-2.5.0_3f5113f86a75c6c2a3caa5c2b81f6b25e9cd90d1
+base.0=/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/transforms/dex/debug/folders/1000/2/okio-1.6.0_e2233aa566fd55c455426f101678a4d3c2c5e3d8
+file.3=/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_97fb7a4590adff23f0cb57e87432794b74cd5565/classes.dex
+file.2=/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_279d87ed8132e550ff2355f4e4695edcc364189b/classes.dex
+file.1=/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/transforms/dex/debug/folders/1000/2/okhttp-2.5.0_3f5113f86a75c6c2a3caa5c2b81f6b25e9cd90d1/classes.dex
+file.0=/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/transforms/dex/debug/folders/1000/2/okio-1.6.0_e2233aa566fd55c455426f101678a4d3c2c5e3d8/classes.dex

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/libs/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/transforms/dex/debug/folders/1000/2/okio-1.6.0_e2233aa566fd55c455426f101678a4d3c2c5e3d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/201519060378/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_97fb7a4590adff23f0cb57e87432794b74cd5565/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/libs/okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/transforms/dex/debug/folders/1000/2/okhttp-2.5.0_3f5113f86a75c6c2a3caa5c2b81f6b25e9cd90d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="937599ad6142e6c9c0a8fa18b46eb63c70161c9f">
+        <dex dex="/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9f00fe6bdaf8098a6812f54b6bcbceb0d978b26f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_279d87ed8132e550ff2355f4e4695edcc364189b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/201519060378/Documentos/EngSoftware6/Mobile/CustomListViewVolley/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c1df3458689d204b0edecfaff01f321a02656a81/classes.dex" />
+    </item>
+
+</items>
